@@ -1,6 +1,6 @@
 """
    pip install -r requirements.txt
-   streamlit run app.py
+   streamlit run src/app.py
 """
 
 import streamlit as st
